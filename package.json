@@ -1,0 +1,19 @@
+{
+  "name": "sendit-asia.github.io",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendit-asia/sendit-asia.github.io.git"
+  },
+  "author": "Sendit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendit-asia/sendit-asia.github.io/issues"
+  },
+  "homepage": "https://github.com/sendit-asia/sendit-asia.github.io#readme"
+}
