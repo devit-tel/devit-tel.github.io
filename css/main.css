@@ -1,0 +1,32 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: grayscale;
+}
+
+body {
+  background: black url(../img/photo-1461749280684-dccba630e2f6.jpg) no-repeat center center;
+  background-size: cover;
+  padding: 0;
+}
+body > div {
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,.7);
+  color: white;
+  text-align: center;
+}
+a {
+  color: #febe10;
+  text-decoration: none;
+  font-weight: 600;
+}
+a:hover {
+  text-decoration: underline;
+}
+ul.list-unstyled {
+  list-style: none;
+  padding: 0;
+}

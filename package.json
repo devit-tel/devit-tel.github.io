@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sendit-asia/sendit-asia.github.io/issues"
   },
-  "homepage": "https://github.com/sendit-asia/sendit-asia.github.io#readme"
+  "homepage": "https://github.com/sendit-asia/sendit-asia.github.io#readme",
+  "dependencies": {
+    "unsplash-js": "^4.2.0"
+  }
 }
